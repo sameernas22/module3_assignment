@@ -1,0 +1,47 @@
+body {
+  font-size: 16px;
+  color: black;
+}
+
+#header-nav {
+  background-color: grey;
+  border-radius: 0;
+  border: 0;
+}
+#logo {
+  color: black;
+  font-size: 2em;
+}
+
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: black;
+  text-align: center;
+  font-size: 1.8em;
+}
+#nav-list a:hover {
+  background-color: #e7e7e7;
+}
+#title {
+  text-align: center;
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+#container {
+  background-color: grey;
+  color: black;
+  width: 94%;
+  margin: auto;
+}
+h4 {
+  text-align: center;
+  font-weight: bolder;
+  padding-bottom: 5px;
+}
+p {
+  font-family: sans-serif;
+  font-weight: 700;
+}
